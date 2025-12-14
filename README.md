@@ -38,8 +38,7 @@ Medical schools faced challenges in:
 - **Infrastructure / Deployment:** AWS EC2, S3, RDS  
 - **CI/CD:** GitHub Actions, Docker  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
+ 
 
 ---
 
